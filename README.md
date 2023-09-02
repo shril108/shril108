@@ -9,7 +9,7 @@
 🌱 &nbsp;Currently I am learning more about how I can use Reinforcement Learning.\
 ✍️ &nbsp;In my free time, I enjoy exercising, playing games, and making coffee!\
 📫 &nbsp;I would love to connect and talk about new technologies within the realm of Data Science.\
-✉️ &nbsp;Reach out to me at patel.shrilk@gmail.com!\
+✉️ &nbsp;Reach out to me at patel.shrilk@gmail.com!
 
 
 
@@ -25,7 +25,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
 
-  <img alt="Image" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <img alt="Image" src="https://github.com/shril108/shril108/blob/main/night%20cafe.gif" align="right"/>
 
 <!--
 **shril108/shril108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
