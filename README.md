@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My name is Shril Patel and I am a student at Rutgers University - New Brunswick studying Computer Science and Data Science. 
+
+![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <!--
 **shril108/shril108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
