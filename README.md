@@ -27,7 +27,7 @@
 
 
 <figure>
-  <img alt="Image" src="https://github.com/shril108/shril108/blob/main/night%20cafe.gif" align="right" width = "500" height = "250"/>
+  <img alt="Image" src="https://github.com/shril108/shril108/blob/main/night%20cafe.gif" width = "500" height = "250"/>
   <figcaption>Credit: Darius Anton</figcaption>
 </figure>
 
