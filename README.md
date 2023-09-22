@@ -25,7 +25,11 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
 
+
+<figure>
   <img alt="Image" src="https://github.com/shril108/shril108/blob/main/night%20cafe.gif" align="right" width = "500" height = "250"/>
+  <figcaption>Credit: Darius Anton</figcaption>
+</figure>
 
 <!--
 **shril108/shril108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
