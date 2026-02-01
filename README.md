@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-### My name is Shril Patel and I am a student at Rutgers University - New Brunswick studying Computer Science and Data Science. 
+### My name is Shril Patel and I am an Application Developer at ADP. 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I love working with data in novel scenarios that require creativity!\
-🎓 &nbsp;My name is Shril Patel and I am a student at Rutgers University - New Brunswick studying Computer Science and Data Science. \
+🎓 &nbsp;Graduated from Rutgers University - New Brunswick studying Computer Science. \
 🌱 &nbsp;Currently I am learning more about how I can use Reinforcement Learning.\
 ✍️ &nbsp;In my free time, I enjoy exercising, playing games, and making coffee!\
-📫 &nbsp;I would love to connect and talk about new technologies within the realm of Data Science.\
+📫 &nbsp;I would love to connect and talk about new technologies within the realm of Application Development.\
 ✉️ &nbsp;Reach out to me at patel.shrilk@gmail.com!
 
 
