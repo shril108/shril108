@@ -38,8 +38,6 @@ I built the client data collection platform that launched ADP into the Canadian 
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=25A162)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)
 
-### 📌 &nbsp;What I'm Building
-
 
 ### 💬 &nbsp;Open To
 
