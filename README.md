@@ -7,7 +7,7 @@ I work mostly in **Java and Spring Boot** over Oracle and Postgres, with React o
 I built the client data collection platform that launched ADP into the Canadian market, and I still own it in production including incidents, vendor API changes, disaster-recovery drills, and the weekly ops call. I like being the person still supporting what I shipped a year ago.
 
 🔭 &nbsp;**Currently:** going deeper on AWS and system design, and building internal AI tooling — MCP integrations and a pre-review code agent my team actually uses.\
-🎓 &nbsp;B.S. Computer Science, Minor in Data Science — Rutgers University, New Brunswick.\
+🎓 &nbsp;B.S. Computer Science — Rutgers University, New Brunswick.\
 ✍️ &nbsp;Outside work: exercising, games, and making coffee I'm probably too particular about.\
 📫 &nbsp;**patel.shrilk@gmail.com** · [LinkedIn](https://www.linkedin.com/in/shril-patel/)
 
