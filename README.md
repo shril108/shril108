@@ -1,10 +1,10 @@
 ## Hi, I'm Shril 👋
 
-**Software Engineer at ADP**, building backend systems for financial products — the kind where a bad release isn't a rollback, it's a compliance incident.
+**Software Engineer at ADP**, building backend systems for financial products where a bad release isn't a rollback, it's a compliance incident.
 
-I work mostly in **Java and Spring Boot** over Oracle and Postgres, with React on the front end when a project runs full stack. Day to day that means REST APIs, OAuth2, batch ETL, and AWS, on platforms handling client onboarding, KYC, and sanctions screening for 100,000+ clients.
+I work mostly in **Java and Spring Boot** over Oracle and Postgres, with React on the front end when a project runs full stack. Day to day that means REST APIs, OAuth2, batch ETL, and AWS, on platforms handling client onboarding, KYC, and sanctions screening for over 100,000 clients.
 
-I built the client data collection platform that launched ADP into the Canadian market, and I still own it in production — incidents, vendor API changes, disaster-recovery drills, and the weekly ops call. I like being the person still supporting what I shipped a year ago.
+I built the client data collection platform that launched ADP into the Canadian market, and I still own it in production including incidents, vendor API changes, disaster-recovery drills, and the weekly ops call. I like being the person still supporting what I shipped a year ago.
 
 🔭 &nbsp;**Currently:** going deeper on AWS and system design, and building internal AI tooling — MCP integrations and a pre-review code agent my team actually uses.\
 🎓 &nbsp;B.S. Computer Science, Minor in Data Science — Rutgers University, New Brunswick.\
