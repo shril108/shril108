@@ -71,12 +71,4 @@ Building it in the open: repo and spec going public shortly.
 
 ---
 
-### 💬 Things I'm thinking about lately
-
-**Where the transaction ends.** JPA makes a database look like an object graph, and most of the Spring incidents I've chased are that illusion leaking. Such as a @Transactional method calling another one on this so the proxy never fires and the inner boundary doesn't actually exist, a lazy field that's fine in a test and N+1s once it's in a loop, or open-session-in-view holding a connection for as long as serialization takes. The usual fix is mapping entities to DTOs at the service edge so nothing lazy escapes the transaction. It works, and it also means one new field touches four files. I still don't know whether that's the price of a real boundary or ceremony I've gotten used to. If you have a strong opinion there, I'd like to hear it.
-
-**LLMs in developer tooling.** I've shipped MCP integrations and a pre-review agent my team uses daily, so I'm past the demo stage but interested in learning different ways of working or coding to understand the line between tooling that saves reviewers time and tooling that quietly lowers the bar for what gets reviewed properly. If you've built something in this space I'd love to hear how it actually went, even the parts that didn't work.
-
-**How you got where you are.** I enjoy hearing how people ended up doing what they do, especially the parts that weren't planned. If you're further along than me, or earlier and want to compare notes, the inbox is open. No agenda needed.
-
 📫 &nbsp;[patel.shrilk@gmail.com](mailto:patel.shrilk@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shril-patel/)
