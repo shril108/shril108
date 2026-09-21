@@ -12,12 +12,6 @@ Most of what I build sits in the gap between a company signing up for payroll an
 
 A trip lives in eleven places at once — flight in one inbox, hotel in another, car in a PDF, the plan in Notes, and the budget nowhere. TravelGuide is the one place all of it lands.
 
-Three decisions I've committed to and would happily argue about:
-
-- **One schema-constrained LLM call instead of per-vendor parsers.** Confirmation emails across six booking types, three languages, PDF and HTML, into typed and confidence-scored bookings at roughly two cents each. Low-confidence extractions get flagged rather than silently guessed at.
-- **Tenant isolation at the data layer, not in app code.** Postgres row-level security instead of scattered app-code checks, with cross-tenant leak tests written before the implementation.
-- **Day ordering as an open TSP.** Saved places cluster by geography into day-sized groups; each day solves exactly at ≤7 stops and falls back to 2-opt beyond, under 50 ms.
-
 Building it in the open: repo and spec going public shortly.
 
 ---
