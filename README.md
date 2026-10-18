@@ -6,24 +6,6 @@ Most of what I build sits in the gap between a company signing up for payroll an
 
 ---
 
-### 📌 TravelGuide *(in progress)*
-
-**A trip planner that turns forwarded confirmations into a day-by-day plan you can actually follow.** Java 21 · Spring Boot 3 · React 19 · PostgreSQL · AWS + Terraform
-
-A trip lives in eleven places at once — flight in one inbox, hotel in another, car in a PDF, the plan in Notes, and the budget nowhere. TravelGuide is the one place all of it lands.
-
-Building it in the open: repo and spec going public shortly.
-
----
-
-🔭 &nbsp;**Currently:** going deeper on AWS and system design, and building AI tooling my team uses day to day — an LLM workflow with MCP integrations to Jira, Confluence, and Bitbucket, plus a pre-review agent that catches defects well before code review. Working on a public extension of that pre-review idea next.
-
-🎓 &nbsp;B.S. Computer Science — Rutgers University, New Brunswick.
-
-☕ &nbsp;Outside work: lifting, games, and making coffee I'm probably too particular about.
-
----
-
 ### 🛠 Tech stack
 
 **Languages**
